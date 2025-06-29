@@ -10,4 +10,5 @@ How to use:
 5.Wait for program to scan surrounding Wifi's  
 6.Choose Wifi('s) to attack  
 7.Type `stop` to stop  
-8.Rescan Wifi's or end the program
+8.Rescan Wifi's or end the program  
+(if after running program your wifi does not work properly please restart your computer)
